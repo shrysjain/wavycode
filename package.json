@@ -1,0 +1,14 @@
+{
+  "name": "wavycode",
+  "version": "1.0.0",
+  "description": "A custom data encoding protocol that transforms URLs or other information into visually distinctive images using patterns and color variations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shreyas Jain",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
