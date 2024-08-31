@@ -1,6 +1,6 @@
 # wavycode
 
-`wavycode` is a custom data encoding protocol that transforms URLs or other information into visually distinctive images using sinusoidal patterns and color variations. Unlike traditional QR codes, WavyCode creates a unique, subtle visual representation of data that can be decoded with specialized tools.
+`wavycode` is a custom data encoding protocol that transforms URLs or other information into visually distinctive images using patterns and color variations. Unlike traditional QR codes, WavyCode creates a unique, subtle visual representation of data that can be decoded with specialized tools.
 
 ## Usage
 
